@@ -164,7 +164,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-messaging</artifactId>
-			<version>5.2.22.RELEASE</version>
+			<version>6.2.10</version>
 		</dependency>
 
 		<dependency>
@@ -190,7 +190,7 @@
 		<dependency>
 			<groupId>net.javacrumbs.shedlock</groupId>
 			<artifactId>shedlock-provider-redis-spring</artifactId>
-			<version>4.47.0</version>
+			<version>5.13.0</version>
 		</dependency>
     </dependencies>
 
