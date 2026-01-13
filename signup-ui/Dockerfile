@@ -23,7 +23,7 @@ COPY . ./
 RUN npm run build
 
 # multi stage build
-FROM nginx
+FROM nginx:1.29.4-trixie
 
 RUN apt-get -y update \
     && apt-get install -y curl npm wget unzip zip
