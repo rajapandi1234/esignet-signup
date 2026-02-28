@@ -6,7 +6,7 @@ This repository contains a signup UI and signup service to handle signup operati
 used to fast-track the availability of any digital service to end users via eSignet. eSignet has built-in support for the
 integration with the signup module. The signup service is flexible to connect to any ID registry system via a well-defined plugin interface.
 
-Currently, signup supports below features:
+Currently, signup supports below features:s
 1. Register User
 2. Reset password
 3. Online video based identity verification workflow integration via plugin
